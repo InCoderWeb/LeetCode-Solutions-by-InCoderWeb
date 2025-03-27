@@ -3,25 +3,29 @@
  * @return {number[][]}
  */
 var generate = function (numRows) {
-    let ans = []
-    for (let i = 0; i < numRows; i++) {
-        let res = []
-        for (let j = 0; j <= i; j++) {
-            res.push(combination(i, j))
+    // Initialize Pascal's Triangle with the first row
+    const triangle = [[1]];
+
+    // If numRows is 1, return the first row
+    if (numRows === 1) return triangle;
+
+    // Start generating rows from the second row onward
+    for (let row = 1; row < numRows; row++) {
+        // Create a new row with size (row + 1)
+        let newRow = new Array(row + 1);
+
+        // First and last elements of each row are always 1
+        newRow[0] = 1;
+        newRow[row] = 1;
+
+        // Compute the middle values using values from the previous row
+        for (let col = 1; col < row; col++) {
+            newRow[col] = triangle[row - 1][col - 1] + triangle[row - 1][col];
         }
-        ans.push(res)
+
+        // Add the computed row to Pascal's Triangle
+        triangle.push(newRow);
     }
-    return ans
+
+    return triangle; // Return the final Pascal's Triangle
 };
-
-function combination(n, r) {
-    if (r > n) return 0; // If r > n, it's invalid
-    if (r === 0 || r === n) return 1; // C(n,0) and C(n,n) are always 1
-
-    let result = 1;
-    for (let i = 0; i < r; i++) {
-        result *= (n - i);
-        result /= (i + 1);
-    }
-    return result;
-}
