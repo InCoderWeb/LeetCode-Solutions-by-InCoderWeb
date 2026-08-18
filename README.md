@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
