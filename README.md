@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
 ## Union Find
 |  |
 | ------- |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
