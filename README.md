@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
