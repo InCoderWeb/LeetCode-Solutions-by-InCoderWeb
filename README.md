@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
 ## Stack
