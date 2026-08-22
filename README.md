@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0713-subarray-product-less-than-k) |
+| [0881-boats-to-save-people](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0977-squares-of-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0229-majority-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0881-boats-to-save-people](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -149,9 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
