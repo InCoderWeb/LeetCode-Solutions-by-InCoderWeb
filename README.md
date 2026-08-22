@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0073-set-matrix-zeroes) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0125-valid-palindrome) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -145,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
