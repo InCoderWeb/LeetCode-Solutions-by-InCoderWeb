@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0283-move-zeroes) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0229-majority-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0905-sort-array-by-parity) |
