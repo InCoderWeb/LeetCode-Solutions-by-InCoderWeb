@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
 ## String
