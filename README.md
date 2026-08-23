@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0844-backspace-string-compare) |
