@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0219-contains-duplicate-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0424-longest-repeating-character-replacement) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0392-is-subsequence) |
