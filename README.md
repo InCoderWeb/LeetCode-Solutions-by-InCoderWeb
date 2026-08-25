@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
