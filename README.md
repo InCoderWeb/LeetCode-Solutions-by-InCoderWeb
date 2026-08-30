@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0128-longest-consecutive-sequence) |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0424-longest-repeating-character-replacement) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0424-longest-repeating-character-replacement) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,4 +193,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0881-boats-to-save-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/InCoderWeb/LeetCode-Solutions-by-InCoderWeb/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
