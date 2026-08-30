@@ -51,10 +51,6 @@ class Solution {
             }
         }
 
-        if (minLen == Integer.MAX_VALUE) {
-            return "";
-        }
-
-        return s.substring(start, start + minLen);
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
     }
 }
